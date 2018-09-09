@@ -1,0 +1,17 @@
+.\output\objects\tasks.o: FreeRTOS\Source\tasks.c
+.\output\objects\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\objects\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\FreeRTOS.h
+.\output\objects\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\objects\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\objects\tasks.o: ..\Mainpulator\FreeRTOSConfig.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\projdefs.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\portable.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\deprecated_definitions.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\portable\RVDS\ARM_CM3\portmacro.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\mpu_wrappers.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\task.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\list.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\timers.h
+.\output\objects\tasks.o: .\FreeRTOS\Source\include\stack_macros.h
+.\output\objects\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
